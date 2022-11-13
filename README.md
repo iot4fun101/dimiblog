@@ -210,6 +210,3 @@ If you enjoy the theme, please consider buying me a coffee ☕️.
 
 Thanks! ❤️
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/dillonzq/LoveIt.svg)](https://starchart.cc/dillonzq/LoveIt)
